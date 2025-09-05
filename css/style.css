@@ -802,7 +802,10 @@ body {
 
 .about-card { margin-inline: 8px;}
 
-.hero-content {max-width: 100%;}
+.hero-content {
+  width: 100%;
+  max-width: 100%;
+}
 
 .contact-tab .container {
   display: grid;
@@ -812,6 +815,7 @@ body {
 }
 
 }
+
 
 
 
