@@ -781,6 +781,8 @@ body {
 
   .hero .container {grid-template-columns: 1fr 2fr;}
 
+  .hero-content {max-width: 100%;}
+
   .card {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust min width as needed */
   }
@@ -808,4 +810,5 @@ body {
 }
 
 }
+
 
