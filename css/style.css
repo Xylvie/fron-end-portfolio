@@ -572,7 +572,7 @@ body {
   border-radius: var(--radius-circle);
 }
 
-.hero-content { max-width: 500px;}
+.hero-content { max-width: 1000px;}
 
 .hero .section-subtitle {color: var(--on-surface-variant);}
 
@@ -806,4 +806,5 @@ body {
   grid-template-columns: 0.6fr 1fr;
   gap: 24px;
 }
+
 }
