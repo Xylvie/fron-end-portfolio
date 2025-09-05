@@ -572,7 +572,7 @@ body {
   border-radius: var(--radius-circle);
 }
 
-.hero-content { max-width: 1000px;}
+.hero-content { max-width: 500px;}
 
 .hero .section-subtitle {color: var(--on-surface-variant);}
 
@@ -779,7 +779,7 @@ body {
 
   .primary-tabs { z-index: 2;}
 
-  .hero .container {grid-template-columns: 0.2fr 1fr;}
+  .hero .container {grid-template-columns: 1fr 2fr;}
 
   .card {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust min width as needed */
@@ -808,3 +808,4 @@ body {
 }
 
 }
+
