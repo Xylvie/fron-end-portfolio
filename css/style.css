@@ -802,6 +802,8 @@ body {
 
 .about-card { margin-inline: 8px;}
 
+.hero-content {max-width: 100%;}
+
 .contact-tab .container {
   display: grid;
   align-items: flex-start;
@@ -810,5 +812,6 @@ body {
 }
 
 }
+
 
 
